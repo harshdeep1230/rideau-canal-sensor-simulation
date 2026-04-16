@@ -2,18 +2,18 @@
 # Rideau Canal IoT Sensor Simulation 
 
 ##  Project Overview
-This repository contains the Python-based IoT simulation for the Rideau Canal Monitoring System. It generates real-time telemetry data (ice thickness and temperature) and transmits it to Azure IoT Hub using the MQTT protocol.
+This repository contains the Python-based IoT simulation for the Rideau Canal Monitoring System. It generates real-time telemetry data (ice thickness and temperature) and transmits it to Azure IoT Hub using the MQTT protocol
 
 ##  Student Information
-* **Name:** Harshdeep Singh
-* **Student ID:** [INSERT_YOUR_ID_HERE]
+* **Name:** Harshdeep puri
+* **Student ID:** 41170600
 * **Course:** CST8916 - Cloud Computing
 
 ---
 
 ##  Implementation Details
 The simulation mimics three physical sensors placed at:
-1. **NAC** (National Arts Centre)
+1. **NAC** 
 2. **Fifth Avenue**
 3. **Dows Lake**
 
