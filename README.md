@@ -69,8 +69,8 @@ The sensors emit messages in the following JSON format:
 ---
 
 ##  Related Repositories
-* **Main Documentation:** [Link to rideau-canal-monitoring]
-* **Web Dashboard:** [Link to rideau-canal-dashboard]
+* **Main Documentation:**  https://github.com/harshdeep1230/rideau-canal-monitoring
+* **Web Dashboard:**  https://github.com/harshdeep1230/rideau-canal-dashboard
 
 ##  References
 * [Azure IoT Device SDK for Python](https://pypi.org/project/azure-iot-device/)
